@@ -1,4 +1,4 @@
-mysql:
-  user: root
-person:
-  name: laozhang
+mysql: 
+  user: users
+person: 
+  name: 123456
